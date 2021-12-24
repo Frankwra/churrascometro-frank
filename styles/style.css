@@ -1,0 +1,35 @@
+
+body{
+  background-color:rgb(141, 179, 211);
+}
+
+.container{
+  border-style: groove;
+  border-color: royalblue;
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 300px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+#map{
+  display: none;
+}
+
+h1{
+  margin-top: 0;
+}
+
+input{
+  width: 100%;
+  display: block;
+  padding: 5px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+h5, h6{
+  margin-bottom: 1%;
+}
+
